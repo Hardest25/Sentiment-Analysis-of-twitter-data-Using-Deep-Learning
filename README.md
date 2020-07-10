@@ -18,7 +18,7 @@ The model takes the text as input, pre-processes the text and sends it to the ne
 
 
 ##### Demo
-A working demo can be found at <a href="https://https://sentimentalanalysisdata.herokuapp.com/">https://https://sentimentalanalysisdata.herokuapp.com//</a>
+A working demo can be found at <a href="https://sentimentalanalysisdata.herokuapp.com/">https://sentimentalanalysisdata.herokuapp.com//</a>
 
 
 
